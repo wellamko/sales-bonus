@@ -1,3 +1,5 @@
+https://github.com/wellamko/sales-bonus
+
 # Проектная работа "Пряники"
 5 спринт, модуль JS
 
